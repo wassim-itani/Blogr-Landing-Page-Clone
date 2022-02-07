@@ -6,7 +6,6 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,11 +22,9 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here](https://blogr-landing-page-clone.netlify.app/)
 
 ## My process
 
@@ -46,5 +43,6 @@ Users should be able to:
 - Responsive design.
 - Dropdown menus etc..
  
-
+### Author
+Wassim Itani
 
