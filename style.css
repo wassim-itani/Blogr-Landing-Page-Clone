@@ -36,6 +36,10 @@ html {
 
 body {
   font-family: "Overpass", sans-serif;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
 }
 
 h1,
@@ -264,7 +268,7 @@ ul {
 
 .hero-btns {
   display: flex;
-  gap: 15px;
+  gap: 10px;
   justify-content: center;
 }
 /*Future*/
@@ -326,7 +330,7 @@ ul {
   position: absolute;
   top: -390px;
   left: 50%;
-  max-width: 375px;
+  max-width: 360px;
   transform: translateX(-50%);
 }
 
@@ -569,7 +573,7 @@ ul {
   }
 
   .content-text {
-    gap:55px;
+    gap: 55px;
     text-align: left;
   }
 
